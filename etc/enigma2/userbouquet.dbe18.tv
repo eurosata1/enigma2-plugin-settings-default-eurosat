@@ -1,0 +1,13 @@
+#NAME IPTV
+#SERVICE 1:64:18:0:0:0:0:0:0:0:
+#DESCRIPTION -------- Children --------
+#SERVICE 1:64:19:0:0:0:0:0:0:0:
+#DESCRIPTION -------- Erotic --------
+#SERVICE 1:64:20:0:0:0:0:0:0:0:
+#DESCRIPTION -------- General --------
+#SERVICE 1:64:21:0:0:0:0:0:0:0:
+#DESCRIPTION -------- Music --------
+#SERVICE 1:64:22:0:0:0:0:0:0:0:
+#DESCRIPTION -------- Porn --------
+#SERVICE 1:64:23:0:0:0:0:0:0:0:
+#DESCRIPTION -------- Sport --------
