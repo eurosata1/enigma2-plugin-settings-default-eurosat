@@ -208,7 +208,7 @@ transponders
 	s 11681000:27500000:0:3:130:2:0:1:2:0:1
 /
 00820000:25e4:02be
-	s 12654000:27500000:0:3:130:2:0
+	s 12654000:27500000:0:4:130:2:0
 /
 00820000:013e:21fc
 	s 12437000:29900000:0:7:130:2:0:1:2:0:0
@@ -353,8 +353,11 @@ p:Satlink
 0001:00820000:02bc:013e:1:0
 Universal Channel Poland
 p:Arqiva
+0001:00820000:20d0:013e:1:0
+Al Alam
+p:GlobeCast,c:001ffe,c:010100,c:031ffe
 0001:00820000:03de:0110:1:0
-Italia 1
+Italia 1 - PROVVISORIO
 p:Mediaset
 1101:00820000:1644:fbff:1:0
 Doctor's Life
@@ -384,7 +387,7 @@ p:Satlink
 Sci Fi Poland
 p:Arqiva
 0002:00820000:03de:0110:1:0
-Canale 5
+Canale 5 - PROVVISORIO
 p:Mediaset,c:00064a,c:01064b,c:020653,c:03064a,C:0000
 0002:00820000:25e4:02be:1:0
 QATAR TV
@@ -417,7 +420,7 @@ p:Satlink
 13 Ulica (Street) Poland
 p:Arqiva
 0003:00820000:03de:0110:1:0
-Rete 4
+Rete 4 - PROVVISORIO
 p:Mediaset,c:00065e,c:01065f,c:020653,c:03065e
 0003:00820000:25e4:02be:1:0
 SAUDI1
@@ -444,7 +447,7 @@ p:Bouquet Vari,c:000191,c:010192,c:030191
 KALSAN TV
 p:Satlink
 0004:00820000:03de:0110:1:0
-Iris
+Iris - PROVVISORIO
 p:Mediaset,c:000686,c:010687,c:030686,C:0000
 0004:00820000:25e4:02be:1:0
 KUWAIT
@@ -474,7 +477,7 @@ p:Bouquet Vari,c:0001f5,c:0101f6,c:0301f5
 Elite
 p:Satlink
 0005:00820000:03de:0110:1:0
-CANALE 5
+CANALE 5 - PROVVISORIO
 p:Mediaset
 1005:00820000:2db4:013e:1:0
 RolandoSat
@@ -507,7 +510,7 @@ p:Mediaset,c:000690,c:010691,c:030690
 ESO TV
 p:Bouquet Vari,c:000259,c:01025a,c:030259
 0006:00820000:03de:0110:1:0
-Boing
+Boing - PROVVISORIO
 p:Mediaset,c:000690,c:010691,c:030690,C:0000
 0006:00820000:25e4:02be:1:0
 SUDAN TV
@@ -534,7 +537,7 @@ p:MTV Networks Europe
 LA5
 p:Mediaset,c:0006c2,c:0106c3,c:0206cb,c:0306c2
 0007:00820000:03de:0110:1:0
-La 5
+La 5 - PROVVISORIO
 p:Mediaset,C:0000
 0007:00820000:25e4:02be:1:0
 OMAN
@@ -561,7 +564,7 @@ p:Mediaset,c:000712,c:010713,c:020653,c:030712
 KlikSat FAR
 p:Arqiva
 0008:00820000:03de:0110:1:0
-TgCom24
+TgCom24 - PROVVISORIO
 p:Mediaset
 0008:00820000:25e4:02be:1:0
 ESC
@@ -585,7 +588,7 @@ p:Mediaset,c:0006d6,c:0106d7,c:0206df,c:0306d6
 Farsi-1
 p:ARQIVA LTD
 0009:00820000:03de:0110:1:0
-Mediaset EXTRA
+Mediaset EXTRA - PROVVISORIO
 p:Mediaset,C:0000
 0009:00820000:25e4:02be:1:0
 AL-IRAQIA TV
@@ -621,7 +624,7 @@ p:Harmonic
 RTPi
 p:ARQIVA LTD
 000a:00820000:03de:0110:1:0
-Mediaset ITALIA DUE
+Mediaset ITALIA DUE - PROVVISORIO
 p:Mediaset,C:0000
 0e0a:00820000:2d50:013e:1:0
 HBO COMEDY HD
@@ -684,7 +687,7 @@ p:Mediaset,c:0006ea,c:0106eb,c:0306ea
 Royal Somali TV
 p:Bouquet Vari,c:000052,c:010025,c:030052
 000c:00820000:03de:0110:1:0
-Topcrime
+Topcrime - PROVVISORIO
 p:Mediaset,C:0000
 110c:00820000:1644:fbff:1:0
 POKERItalia24
@@ -812,6 +815,9 @@ p:Sky Italia,c:0000a9,c:0101f0,c:031ffe
 4210:00820000:3db8:013e:1:0
 Challenger
 p:Telespazio
+0011:00820000:02bc:013e:1:0
+INI
+p:Arqiva,c:000a8d,c:010a8e,c:030a8d
 0311:00820000:1b58:013e:1:0
 Mekameleen TV
 p:Telespazio
@@ -875,6 +881,9 @@ p:Sky Italia,c:0000a9,c:0101f8,c:031ffe
 4213:00820000:3db8:013e:1:0
 CHALLENGER 833
 p:Telespazio
+0314:00820000:1b58:013e:1:0
+MTA International
+p:Telespazio,c:000932,c:010933,c:030932
 2914:00820000:1edc:0071:1:0
 Blue Hustler
 p:Cyfrowy Polsat S.A.
@@ -1182,7 +1191,7 @@ p:Telespazio
 JCTV
 p:OVERON
 0325:00820000:03de:0110:1:0
-Mediaset Rewind
+Mediaset Rewind - PROVVISORIO
 p:Mediaset
 0c25:00820000:1e78:0071:1:0
 AXN HD
@@ -2063,6 +2072,9 @@ p:SkyItalia,C:0000
 3d5f:00820000:2c88:013e:1:0
 Orange Sport
 p:nc+
+425f:00820000:3db8:013e:1:0
+iTV Italia
+p:Telespazio,c:000335,c:010336,c:030335
 0160:00820000:1c84:013e:1:0
 novacinema4
 p:NetMed
@@ -2081,6 +2093,9 @@ p:TandbergTV
 3d60:00820000:2c88:013e:1:0
 Filmbox Extra
 p:nc+
+4260:00820000:3db8:013e:1:0
+Eursat
+p:Telespazio,c:0006a1,c:0106a2,c:0306a1
 4460:00820000:1f40:013e:1:0
 Game One
 p:GLOBECAST
@@ -2664,7 +2679,7 @@ p:NetMed
 MEDIA BROADCAST - Test 24
 p:MEDIA BROADCAST
 0383:00820000:03de:0110:1:0
-Infinity
+Infinity - PROVVISORIO
 p:Mediaset
 0c83:00820000:2328:013e:1:0
 TV K-C
@@ -2981,6 +2996,9 @@ p:Bouquet Vari,c:0007d2,c:010bb9,c:0307d2
 1c9c:00820000:332c:013e:1:0
 Crime and Investigation nc+
 p:Arqiva
+249c:00820000:23f0:013f:1:0
+Iran TV Network
+p:Harmonic,c:000457,c:010458,c:030459
 3a9c:00820000:0514:013e:1:0
 Discovery Turbo Xtra HD
 p:nc+
@@ -3176,6 +3194,9 @@ p:Satlink
 06ac:00820000:3138:013e:1:0
 RTR
 p:GLOBECAST
+08ac:00820000:01f4:013e:1:0
+Hot Bird 4k Test
+p:Bouquet Vari,c:0007e4,c:010bcc,c:0307e4
 1fac:00820000:189c:fbff:1:0
 Sky News
 p:SkyItalia
@@ -3197,6 +3218,9 @@ p:Satlink
 06ae:00820000:3138:013e:1:0
 Rossiya 24
 p:Harmonic
+06ae:00820000:2f44:013e:1:0
+90 Numeri Sat
+p:M-Three Satcom,c:0006af,c:0106b0,c:0306af
 0dae:00820000:2d50:013e:1:0
 Kino Polska Muzyka
 p:nc+
@@ -3290,6 +3314,9 @@ p:Cyfrowy Polsat S.A.
 3bb5:00820000:012c:013e:1:0
 Nat Geo Wild HD PL
 p:nc+
+06b6:00820000:3138:013e:1:0
+TV 8 Russia
+p:GlobeCast,c:00071c,c:010726,c:03071c
 1cb6:00820000:1ce8:0071:1:0
 Disney Channel
 p:Cyfrowy Polsat S.A.
@@ -3740,6 +3767,9 @@ p:TSA
 38c9:00820000:2648:fbff:1:0
 Primafila 28
 p:SkyItalia
+3dc9:00820000:0640:013e:1:0
+NTL Radomsko
+p:Cyfra +,c:000210,c:0102f8,c:030210
 00ca:0082afc2:0065:0001:1:0
 Radio Svoboda UA 202
 p:
@@ -4160,6 +4190,9 @@ p:Bouquet Vari,c:0005b4,c:01058c,c:0305b4
 00d7:0082afc2:0065:0001:1:0
 Alhurra TV 215
 p:
+02d7:00820000:1b58:013e:1:0
+Altarek - The Way TV
+p:Telespazio,c:00064b,c:01046b,c:03064b
 07d7:00820000:22c4:013e:1:0
 KBS World HD
 p:GlobeCast
@@ -4331,6 +4364,9 @@ p:
 02df:00820000:1b58:013e:1:0
 AL-MAYADEEN
 p:Telespazio
+0fdf:00820000:2c24:fbff:1:0
+Pianeta TV
+p:Sky Italia,c:0009d8,c:0109d9,c:0309d8
 10df:00820000:03e8:013e:1:0
 TVN Turbo
 p:TVN
@@ -4346,6 +4382,9 @@ p:nc+
 34df:00820000:3c28:013e:1:0
 UNIAN TV
 p:GLOBECAST
+0fe0:00820000:2c24:fbff:1:0
+E TV Emilia Romagna
+p:Sky Italia,c:0009d8,c:0109d9,c:0309d8
 10e0:00820000:03e8:013e:1:0
 TVN Style
 p:TVN
@@ -4397,6 +4436,9 @@ p:RRsat
 00e2:0082afc2:0065:0001:1:0
 Radio Free Iraq 226
 p:
+0fe2:00820000:2c24:fbff:1:0
+La 8
+p:Sky Italia,c:0009f0,c:0109f1,c:0309f0
 10e2:00820000:03e8:013e:1:0
 TVN 24 Biznes i Swiat
 p:TVN
@@ -6368,6 +6410,9 @@ p:Harmonic,c:0004b2,c:0104b3,c:0304b2
 0db1:00820000:2d50:013e:25:0
 TVP Sport HD
 p:Cyfra +,c:0000a4,c:0300a4,c:040060
+2fb2:00820000:2db4:013e:25:0
+Sposa TV HD
+p:Bouquet Vari,c:000b5f,c:010b60,c:030b5f
 14b5:00820000:2db4:013e:25:0
 Fox Animation HD
 p:Sky Italia,c:0014b6,c:0214b9,c:0314b6,c:0414b7
@@ -6422,6 +6467,9 @@ p:Nova,c:000205,c:0102bc,c:030205
 34c7:00820000:3c28:013e:25:0
 Jasmin TV HD
 p:Bouquet Vari,c:000583,c:0105e7,c:030583
+1bc9:00820000:17d4:013e:25:0
+ERT HD
+p:Nova,c:000277,c:010278,c:030277
 1bca:00820000:17d4:013e:25:0
 Nova Cinema 2 HD
 p:Nova,c:000211,c:01030d,c:030211
@@ -6591,4 +6639,4 @@ p:SkyItalia,f:40
 Fusion FGDL
 p:SkyItalia,f:40
 end
-Edited with dreamboxEDIT 6.0.1.2 on 14mag2015 15:51:38
+Edited with dreamboxEDIT 6.0.1.2 on 17giu2015 20:11:30
